@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="question_0_text">Where is the next Fifa World Cup?</string>
+    <string name="question_1_text">Who is referred to as the King of Clay?</string>
+    <string name="question_2_text">When is the next summer Olympics?</string>
+    <string name="question_3_text">Which team does Messi play for?</string>
+    <string name="q_0_a_0">Qatar</string>
+    <string name="q_0_a_1">Dubai</string>
+    <string name="q_0_a_2">Oman</string>
+    <string name="q_0_a_3">Saudi Arabia</string>
+    <string name="q_1_a_0">Djokovic</string>
+    <string name="q_1_a_1">Nadal</string>
+    <string name="q_1_a_2">Federer</string>
+    <string name="q_1_a_3">Medvadev</string>
+    <string name="q_2_a_0">2022</string>
+    <string name="q_2_a_1">2023</string>
+    <string name="q_2_a_2">2024</string>
+    <string name="q_2_a_3">2025</string>
+    <string name="q_3_a_0">France</string>
+    <string name="q_3_a_1">Spain</string>
+    <string name="q_3_a_2">Brazil</string>
+    <string name="q_3_a_3">Argentina</string>
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+    <string name="button_reset">Reset All</string>
+    <string name="correct_answers_text">"Correct Answers: "</string>
+    <string name="total_questions_text">"Total Questions: "</string>
+    <string name="hints_used_textview">"Hints Used: "</string>
+    <string name="results">Results</string>
+</resources>
